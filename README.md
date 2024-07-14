@@ -13,7 +13,7 @@
   <video src="https://github.com/user-attachments/assets/79b153ff-8884-4d6d-93cb-5b3f2475980c"  />
 </div>
 
-## Features
+## ► Features
 |Feature|Description|
 |-|-|
 |Random GIF Fetching|Instantly retrieve random GIFs to keep the content fresh and entertaining.|
@@ -21,7 +21,7 @@
 |User-Friendly Interface|An intuitive and easy-to-navigate UI for a seamless user experience.|
 |Responsive Design|Optimized for desktop and mobile devices, ensuring usability across various platforms.|
 
-## Technologies Used
+## ► Technologies Used
 ||||
 |-|-|-|
 |Frontend|React.js|React allows for the creation of UI.|
@@ -29,7 +29,7 @@
 |Styling|CSS|Cascading Style Sheets (CSS) is used for styling the components in the application.|
 
 
-## Prerequisites & Installation
+## ► Prerequisites & Installation
 |||
 |-|-|
 |1|A modern web browser (Chrome,Edge, etc.)|
@@ -37,20 +37,20 @@
 |3|Navigate to the project directory|
 |4|Install the dependencies like npm install|
 
-## Run the Application
+## ► Run the Application
 ||||
 |-|-|-|
 |1|Start the server:|npm start|
 |2|Open your browser and navigate to:|http://localhost:3000|
 
 
-## Usage
+## ► Usage
 |||
 |-|-|
 |Random GIFs| Click on the "Generate" button to retrieve a random GIF|
 |Search GIFs| Enter a keyword in the search bar and click on the "Generate" button to find GIFs that match your criteria|
 
-## Acknowledgments
+## ► Acknowledgments
 |||
 |-|-|
 |1|Thanks to Giphy for providing the GIFs API|
