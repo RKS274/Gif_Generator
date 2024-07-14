@@ -2,6 +2,17 @@
 
 ### Welcome to the GIF Generator project! This application fetches random GIFs from a third-party API and allows users to search for specific GIFs based on their preferences. It aims to provide a fun and user-friendly experience for finding and enjoying GIFs.
 
+<p align="center">
+  <img src="https://github.com/RKS274/Gif_Generator/blob/master/G2.jpg" width="240" height="300" alt="Tic1"/>
+  <img src="https://github.com/RKS274/Gif_Generator/blob/master/G3.jpg" width="240" height="300" alt="Tic2"/>
+  <img src="https://github.com/RKS274/Gif_Generator/blob/master/G1.jpg" width="240" height="300" alt="Tic3"/>
+</p>
+
+
+<div align="center" >
+  <video src="https://github.com/user-attachments/assets/79b153ff-8884-4d6d-93cb-5b3f2475980c"  />
+</div>
+
 ## Features
 |Feature|Description|
 |-|-|
@@ -13,7 +24,7 @@
 ## Technologies Used
 ||||
 |-|-|-|
-|Frontend|React.js|React allows for the creation of reusable UI.|
+|Frontend|React.js|React allows for the creation of UI.|
 |API Integration|Giphy API|A third-party API that provides access to a vast library of GIFs.|
 |Styling|CSS|Cascading Style Sheets (CSS) is used for styling the components in the application.|
 
